@@ -38,8 +38,7 @@
 				"isAdmin": "true"
 			}
 		],
-		"classroomName": "5M",
-		"loading": false
+		"classroomName": "5M"
 	},
 
 	"planner": {
@@ -76,8 +75,7 @@
 				]
 			}
 		],
-		"lastEventsUpdate": "",
-		"loading": false
+		"lastEventsUpdate": ""
 	},
 
 
