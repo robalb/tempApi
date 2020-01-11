@@ -49,11 +49,13 @@
 				"dates": [{
 						"day": 10,
 						"month": 11,
+						"year": 2020,
 						"students": ["antonio d", "marla"]
 					},
 					{
 						"day": 13,
 						"month": 11,
+						"year": 2020,
 						"students": ["antonio r", "aieie"]
 					}
 				]
@@ -65,11 +67,13 @@
 				"dates": [{
 						"day": 12,
 						"month": 11,
+					        "year": 2020,
 						"students": ["antonio d", "marla"]
 					},
 					{
 						"day": 15,
 						"month": 11,
+						"year": 2020,
 						"students": ["antonio d", "marla"]
 					}
 				]
