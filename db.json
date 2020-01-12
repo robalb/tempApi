@@ -14,8 +14,8 @@
 				"isAdmin": "true"
 			},
 			{
-				"uid": "marla",
-				"name": "marla",
+				"uid": "mariotta",
+				"name": "mariotta",
 				"surname": "deantoni",
 				"isAdmin": "true"
 			},
@@ -50,7 +50,7 @@
 						"day": 10,
 						"month": 11,
 						"year": 2020,
-						"students": ["antonio d", "marla"]
+						"students": ["antonio d", "borfio", "mariotta"]
 					},
 					{
 						"day": 13,
@@ -68,13 +68,19 @@
 						"day": 12,
 						"month": 11,
 					        "year": 2020,
-						"students": ["antonio d", "marla"]
+						"students": ["antonio d", "mariotta"]
 					},
 					{
 						"day": 15,
 						"month": 11,
 						"year": 2020,
-						"students": ["antonio d", "marla"]
+						"students": []
+					},
+					{
+						"day": 17,
+						"month": 11,
+						"year": 2020,
+						"students": ["aieie"]
 					}
 				]
 			}
